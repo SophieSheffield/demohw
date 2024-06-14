@@ -1,0 +1,13 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:slategray;
+    background-color:beige;
+}
+p{
+   font-style: italic; 
+   color: rgb(1, 1, 41);
+}
+li{
+  color:dimgray
+}
